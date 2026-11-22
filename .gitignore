@@ -221,3 +221,25 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+.venv/
+data/
+*.parquet
+*.db
+*.db.gz
+.env
+target/
+dbt_packages/
+logs/
+.DS_Store
+
+.venv/
+data/
+*.parquet
+*.db
+*.db.gz
+.env
+target/
+dbt_packages/
+logs/
+.DS_Store
